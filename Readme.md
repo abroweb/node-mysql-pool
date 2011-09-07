@@ -76,6 +76,8 @@ If you find an error, please file an [issue](https://github.com/Kijewski/node-my
     (fixed [issue #3](https://github.com/Kijewski/node-mysql-pool/pull/3))
 * [dall](https://github.com/dall)
     (spotted [issue #5](https://github.com/Kijewski/node-mysql-pool/issues/5))
+* [Demián Rodriguez](https://github.com/demian85)
+    (fixed [issue #7](https://github.com/Kijewski/node-mysql-pool/issues/7))
 
 <a name="Compatibility"></a>
 <h2>Compatibility</h2>
